@@ -1,0 +1,10 @@
+node_modules
+.pnpm-store
+dist
+build
+coverage
+.turbo
+.cache
+.env
+.env.*
+.DS_Store
