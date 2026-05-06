@@ -1,11 +1,11 @@
 {
-  "name": "system-a",
-  "private": true,
-  "version": "0.0.0",
-  "scripts": {
-    "dev": "node -e \"console.log('system-a dev placeholder')\"",
-    "build": "node -e \"console.log('system-a build placeholder')\"",
-    "lint": "node -e \"console.log('system-a lint placeholder')\"",
-    "check": "node -e \"console.log('system-a check placeholder')\""
-  }
+    "name": "system-a",
+    "private": true,
+    "version": "0.0.0",
+    "scripts": {
+        "dev": "node -e \"console.log('system-a dev placeholder')\"",
+        "build": "node -e \"console.log('system-a build placeholder')\"",
+        "lint": "node -e \"console.log('system-a lint placeholder')\"",
+        "check": "node -e \"console.log('system-a check placeholder')\""
+    }
 }
