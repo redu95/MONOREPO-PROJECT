@@ -1,6 +1,6 @@
 # Monorepo Project
 
-This workspace is set up as a pnpm monorepo with two app slots under `apps/` and shared packages under `packages/`.
+This workspace is set up as a pnpm monorepo with two app slots under `apps/` and shared packages under `packages/`
 
 ## Structure
 
