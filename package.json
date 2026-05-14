@@ -11,5 +11,14 @@
         "build": "pnpm -r build",
         "lint": "pnpm -r lint",
         "check": "pnpm -r check"
+    },
+    "dependencies": {
+        "react": "^19.2.6",
+        "react-dom": "^19.2.6"
+    },
+    "devDependencies": {
+        "@types/react": "^19.2.14",
+        "@types/react-dom": "^19.2.3",
+        "typescript": "^6.0.3"
     }
 }
